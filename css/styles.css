@@ -210,7 +210,7 @@ button {
 }
 
 .buttons .current-button {
-    color: var(--white-color);
+    color: var(--rpimary-color);
     background-color: var(--accent-color);
 }
 
